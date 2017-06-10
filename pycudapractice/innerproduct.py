@@ -1,3 +1,5 @@
+##iplayer_pycuda
+
 import pycuda.autoinit
 import pycuda.gpuarray as gpuarray
 import numpy as np
