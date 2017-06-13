@@ -4,7 +4,7 @@
 import numpy as np
 from pycuda import driver, compiler, gpuarray, tools
    
-# -- initialize the device
+# initialize the device
 import pycuda.autoinit
 import time
    
