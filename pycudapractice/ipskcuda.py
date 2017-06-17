@@ -1,5 +1,5 @@
 """
-Demonstrates multiplication of several matrices on the GPU.
+Demonstrates multiplication of several matrices on GPU.
 """
 from __future__ import print_function
 
