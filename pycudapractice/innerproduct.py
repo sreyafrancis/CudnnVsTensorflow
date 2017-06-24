@@ -1,4 +1,4 @@
-#iplayer_pycuda
+#Ip_Layer_pycuda
 
 import pycuda.autoinit
 import pycuda.gpuarray as gpuarray
