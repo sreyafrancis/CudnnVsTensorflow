@@ -1,4 +1,4 @@
-#Ip_Layer_pycuda
+#Ip_Layer_Pycuda
 
 import pycuda.autoinit
 import pycuda.gpuarray as gpuarray
